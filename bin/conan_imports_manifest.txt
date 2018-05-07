@@ -1,0 +1,14 @@
+1525699945
+C:\Users\benmh\Documents\Work\Second Year\Graphics\OpenGL 3D\bin\bin\SDL2.dll: 4cdc5b58280d20192e9285e4d54eddce
+C:\Users\benmh\Documents\Work\Second Year\Graphics\OpenGL 3D\bin\bin\SDL2_mixer.dll: 3979932575a7f859c2017ad932db08c5
+C:\Users\benmh\Documents\Work\Second Year\Graphics\OpenGL 3D\bin\bin\SDL2_ttf.dll: 60af31c94f0518d51dc303ed82d70ee6
+C:\Users\benmh\Documents\Work\Second Year\Graphics\OpenGL 3D\bin\bin\assimp-vc140-mt.dll: 14c68ffc115756f099954783851d7513
+C:\Users\benmh\Documents\Work\Second Year\Graphics\OpenGL 3D\bin\bin\libFLAC-8.dll: 54e590af270b87b98b0acbfb4563ec7d
+C:\Users\benmh\Documents\Work\Second Year\Graphics\OpenGL 3D\bin\bin\libfreetype-6.dll: 718a2fc8580832e96752c68ea80abccc
+C:\Users\benmh\Documents\Work\Second Year\Graphics\OpenGL 3D\bin\bin\libmikmod-2.dll: 6e0112efbe475950593f45016b86a0e4
+C:\Users\benmh\Documents\Work\Second Year\Graphics\OpenGL 3D\bin\bin\libmodplug-1.dll: 8583d801d1e73aed919c012ae872fafa
+C:\Users\benmh\Documents\Work\Second Year\Graphics\OpenGL 3D\bin\bin\libogg-0.dll: 6ba17da7c073fff4ef00b3a67985baec
+C:\Users\benmh\Documents\Work\Second Year\Graphics\OpenGL 3D\bin\bin\libvorbis-0.dll: 4aef80a4521a7aded1df15a1aebe28fd
+C:\Users\benmh\Documents\Work\Second Year\Graphics\OpenGL 3D\bin\bin\libvorbisfile-3.dll: 620623f1f1e3a1450311068be51ab18e
+C:\Users\benmh\Documents\Work\Second Year\Graphics\OpenGL 3D\bin\bin\smpeg2.dll: d1f1e889cb8cd7646a8615da71ec1c49
+C:\Users\benmh\Documents\Work\Second Year\Graphics\OpenGL 3D\bin\bin\zlib1.dll: c143ce9ebae0d3248b51360e3239443b

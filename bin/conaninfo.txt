@@ -1,0 +1,66 @@
+[settings]
+    arch=x86_64
+    build_type=Release
+    compiler=Visual Studio
+    compiler.runtime=MD
+    compiler.version=14
+    os=Windows
+
+[requires]
+    Assimp/3.Y.Z
+    SDL2/2.Y.Z
+    SDL2_image/2.Y.Z
+    SDL2_mixer/2.Y.Z
+    SDL2_ttf/2.Y.Z
+    glew/2.Y.Z
+    glm/0.9.7.6
+
+[options]
+
+
+[full_settings]
+    arch=x86_64
+    build_type=Release
+    compiler=Visual Studio
+    compiler.runtime=MD
+    compiler.version=14
+    os=Windows
+
+[full_requires]
+    Assimp/3.3.1@lasote/vcpkg:63da998e3642b50bee33f4449826b2d623661505
+    SDL2/2.0.5@dotfloat/stable:91ccb03e0dea4be83e98d3bb24f796dc48e5be84
+    SDL2_image/2.0.1@lasote/stable:66b8014737db0fe52f2cc8f1770faf9dbc21a30d
+    SDL2_mixer/2.0.1@a_teammate/testing:ce34dc50d00bd61744f4d45bdbea986a8a8ce1b9
+    SDL2_ttf/2.0.14@hilborn/stable:881c23e283f53ff55197ea6cd0a98e4369df405a
+    glew/2.0.0@coding3d/stable:63da998e3642b50bee33f4449826b2d623661505
+    glm/0.9.7.6@dlarudgus20/stable:5ab84d6acfe1f23c4fae0ab88f26e3a396351ac9
+    libjpeg-turbo/1.5.1@lasote/stable:9fa351ac1b30ceabd1b27310408605a456b5fd86
+    libpng/1.6.21@lasote/stable:ee5dab950b6ea94ae953b93c55343e98c2ec39df
+    nasm/2.12.02@lasote/stable:ca33edce272a279b24f87dc0d4cf5bbdcffbc187
+    zlib/1.2.8@lasote/stable:63da998e3642b50bee33f4449826b2d623661505
+
+[full_options]
+    SDL2:directx=False
+    SDL2:fPIC=True
+    SDL2:shared=True
+    SDL2_image:fPIC=True
+    SDL2_image:fast_jpg_load=False
+    SDL2_image:shared=False
+    SDL2_mixer:fPIC=True
+    SDL2_mixer:shared=True
+    SDL2_ttf:fPIC=True
+    SDL2_ttf:shared=False
+    glew:shared=False
+    libjpeg-turbo:SSE=True
+    libjpeg-turbo:shared=False
+    libpng:shared=False
+    zlib:shared=False
+
+[scope]
+    dev=True
+
+[recipe_hash]
+
+
+[env]
+
